@@ -1,2 +1,2 @@
 # npm-git-test-dep
-v2.0.0
+v3.0.0
